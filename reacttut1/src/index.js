@@ -5,6 +5,7 @@ import "./index.css";
 let curDate = new Date(2020, 5, 5, 15);
 curDate = curDate = curDate.getHours();
 let greeting = "";
+
 //creating an cssstyle  object
 const cssStyle = {};
 if (curDate >= 1 && curDate < 12) {
